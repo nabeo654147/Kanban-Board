@@ -1,0 +1,100 @@
+{
+  "columns": [
+    {
+      "id": "cXrtw5n8-FsB",
+      "title": "TODO"
+    },
+    {
+      "id": "w7DTqK1QQKTI",
+      "title": "Doing"
+    },
+    {
+      "id": "bfrqTfEydU38",
+      "title": "Waiting"
+    },
+    {
+      "id": "dfwMbxZS0EmM",
+      "title": "Done"
+    }
+  ],
+  "cards": [
+    {
+      "id": "7lR4Vd3EYixP",
+      "text": "布団から出る\n(:3っ)っ -=三[＿＿]"
+    },
+    {
+      "id": "TsXP5w9qLeM-",
+      "text": "顔を洗う👐"
+    },
+    {
+      "id": "rh022hj9zG58",
+      "text": "歯を磨く🦷"
+    },
+    {
+      "id": "3NRSLMq49xvT",
+      "text": "朝食をとる🍞"
+    },
+    {
+      "id": "ulnuLLt5TN93",
+      "text": "SNSをチェックする🐦"
+    },
+    {
+      "id": "-wkumDeruhSx",
+      "text": "布団に入る\n(:3[___]"
+    },
+    {
+      "id": "mjW8wHV"
+    },
+    {
+      "id": "_mzqpT4Pcjbo",
+      "text": "こんにちは\n"
+    },
+    {
+      "id": "eBzvsDH2NxpK",
+      "text": "こんにちは🤔"
+    },
+    {
+      "id": "vUbU4yeKp5L7",
+      "text": "迷った日の青とのささくれ\n転んだひの後のささくれ\n風の中\n盾の意図はあなた\n横の糸は私\n傷を庇うかも知れない\n盾の糸はあなた\n横の糸は私\nあうべき意図に出会えることを\n人は幸せと呼びます！"
+    },
+    {
+      "id": "setX1YhCJBUD",
+      "text": "こんにちぎ"
+    },
+    {
+      "id": "km7EEXEyhRyw",
+      "text": "てと"
+    },
+    {
+      "id": "K4g4aiYOqSZ3",
+      "text": "キウイ"
+    },
+    {
+      "id": "v4uiZ3mD3eRk",
+      "text": "ものおお"
+    },
+    {
+      "id": "7h0OP8w"
+    },
+    {
+      "id": "KSMgDn3HNmde",
+      "text": "コンにｙいｊ"
+    },
+    {
+      "id": "1LowTiluVOog",
+      "text": "new\n"
+    }
+  ],
+  "cardsOrder": {
+    "cXrtw5n8-FsB": "ulnuLLt5TN93",
+    "w7DTqK1QQKTI": "rh022hj9zG58",
+    "bfrqTfEydU38": "bfrqTfEydU38",
+    "dfwMbxZS0EmM": "7lR4Vd3EYixP",
+    "7lR4Vd3EYixP": "dfwMbxZS0EmM",
+    "TsXP5w9qLeM-": "w7DTqK1QQKTI",
+    "rh022hj9zG58": "TsXP5w9qLeM-",
+    "3NRSLMq49xvT": "-wkumDeruhSx",
+    "ulnuLLt5TN93": "3NRSLMq49xvT",
+    "-wkumDeruhSx": "cXrtw5n8-FsB"
+  }
+}
