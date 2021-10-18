@@ -35,14 +35,14 @@ export type ReqAndRes = {
         }
         res: {}
     }
-    
+
     'GET /v1/cardsOrder': {
         req: null
-        res: Record<string, CardID | ColumnID>
+        res: Record<string, CardID | ColumnID | null>
     }
     'PATCH /v1/cardsOrder': {
-        req: Record<string, CardID | ColumnID>
-        res: Record<string, CardID | ColumnID>
+        req: Record<string, CardID | ColumnID | null>
+        res: Record<string, CardID | ColumnID | null>
     }
 }
 

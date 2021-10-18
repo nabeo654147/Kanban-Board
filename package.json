@@ -3,6 +3,8 @@
         "start": "parcel ./src/index.html",
         "start-api": "json-server --watch ./api/db.json --middlewares ./api/middlewares",
         "build": "parcel build ./src/index.html",
+        "pretest": "tsc --project ./test/tsconfig.json --outDir ./test/dist",
+        "test": "node ./test/dist/test",
         "tsc": "tsc",
         "format": "prettier --write \"./src/**/*.{ts,tsx}\"",
         "lint": "eslint \"./src/**/*.{ts,tsx}\""
@@ -10,9 +12,11 @@
     "devDependencies": {
         "@types/react": "^17.0.29",
         "@types/react-dom": "^17.0.9",
+        "@types/react-redux": "^7.1.19",
         "@types/styled-components": "^5.1.15",
         "@typescript-eslint/eslint-plugin": "^5.0.0",
         "@typescript-eslint/parser": "^5.0.0",
+        "baretest": "^2.0.0",
         "eslint": "^7.32.0",
         "eslint-plugin-react": "^7.26.1",
         "eslint-plugin-react-hooks": "^4.2.0",
@@ -28,6 +32,8 @@
         "immer": "^9.0.6",
         "react": "^17.0.2",
         "react-dom": "^17.0.2",
+        "react-redux": "^7.2.5",
+        "redux": "^4.1.1",
         "styled-components": "^5.3.1"
     }
 }
